@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe of different kinds of food
